@@ -1,0 +1,89 @@
+html,body{
+    background-color: #5ba9f1;
+}
+header{
+    position: relative;
+    width: 37.5rem;
+    height: 29.45rem;
+    background: url("../images/headerBg_01.png") center no-repeat;
+    background-size: cover;
+}
+header div{
+    position: absolute;
+    padding: 0 2.5rem;
+    bottom: 1rem;
+}
+header div span{
+    float: left;
+    display: inline-block;
+    width: 3.5rem;
+    height: 1.95rem;
+    font-size: 1.3rem;
+    text-align: center;
+    line-height: 1.95rem;
+    border-radius: 0.5rem;
+    color: #066bbe;
+    background-color: #fffa73;
+}
+header div p{
+    font-size: 1.3rem;
+    line-height: 2.2rem;
+    text-indent: 0.2rem;
+    text-align: justify;
+    color: #ffffff;
+}
+section{
+    width: 37.5rem;
+}
+section .table1{
+    margin: 0 auto;
+    width: 33.5rem;
+    height: 31.8rem;
+    background: url("../images/table1_05.png") center no-repeat;
+    background-size: cover;
+}
+section .table2{
+    margin: 0 auto;
+    width: 33.5rem;
+    height: 19.75rem;
+    background: url("../images/table2_11.png") center no-repeat;
+    background-size: cover;
+}
+section .button{
+    width: 24.25rem;
+    height: 4.75rem;
+    font-size: 1.7rem;
+    color: #8e4010;
+    line-height: 4.2rem;
+    text-align: center;
+    background: url("../images/buttonBg.png") center no-repeat;
+    background-size: cover;
+}
+section .button.one{
+    margin: 1.45rem auto 2rem;
+}
+section .button.two{
+    margin: 1.6rem auto 2.7rem;
+}
+footer{
+    padding: 0 2.5rem 2.5rem 4.5rem;
+}
+footer div{
+    margin-left: -2rem;
+    margin-bottom: 1.4rem;
+    width: 6rem;
+    height: 1.95rem;
+    font-size: 1.3rem;
+    text-align: center;
+    line-height: 1.95rem;
+    border-radius: 0.5rem;
+    color: #066bbe;
+    background-color: #fffa73;
+}
+footer p{
+    font-size: 1.3rem;
+    line-height: 2rem;
+    text-align: justify;
+    text-indent: -2rem;
+    color: #ffffff;
+}
